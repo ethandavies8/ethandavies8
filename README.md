@@ -2,7 +2,7 @@ My name is Ethan Davies and I am a Computer Science student at the University of
 
 My Public Repositories: 
 
-Educational_App: This was a school project made by me and 3 other people. The assignment was to create an app aimed to educate on a specific topic, our topic was logical operators in circuits. This application teaches how different logical operators work and then has the user practice using each operator in a circuit, eventually ending in creating an adder circuit using what they have learned.
+Educational-App: This was a school project made by me and 3 other people. The assignment was to create an app aimed to educate on a specific topic, our topic was logical operators in circuits. This application teaches how different logical operators work and then has the user practice using each operator in a circuit, eventually ending in creating an adder circuit using what they have learned.
 
 Pixel-Editor-Animator: This was another school project made by me and 3 other people. This application allows the user to create custom pixel sprites of various sizes
 and even create animations for those sprites. The sprites and animations can be saved and loaded.
