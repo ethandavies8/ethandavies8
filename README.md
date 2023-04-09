@@ -1,8 +1,24 @@
-My name is Ethan Davies and I am a computer science student at the University of Utah set to graduate in May 2024. I am currently looking for an internship in full stack development or front end/web development. I have industry experience doing front end automated testing as an intern at the University of Utah. I have also held a management position at KFC starting at age 16 for two years leading a team of six people. I have made honor roll nearly every semester and I take pride in trying to always learn new things and challenge myself. 
+My name is Ethan Davies and I am a Computer Science student at the University of Utah set to graduate in May 2024. I am currently looking for an internship in full stack development or front end/web development. I have industry experience doing front end automated testing as an intern at the University of Utah. I have also held a management position starting at age 16 for two years leading a team of six people at a seperate position. I have made honor roll nearly every semester and I take pride in my hard work ethic.
+
+My Public Repositories: 
+
+Educational_App: This was a school project made by me and 3 other people. The assignment was to create an app aimed to educate on a specific topic, our topic was logical operators in circuits. This application teaches how different logical operators work and then has the user practice using each operator in a circuit, eventually ending in creating an adder circuit using what they have learned.
+
+Pixel-Editor-Animator: This was another school project made by me and 3 other people. This application allows the user to create custom pixel sprites of various sizes
+and even create animations for those sprites. The sprites and animations can be saved and loaded.
+
+Website: This is a personal project where I wanted to challenge myself to learn HTML, CSS, and JavaScript for web development and also lay the foundation for my own website I could use to post my projects and major project updates. The website is currently in a rough state as I got much more busy with school than I was anticipating, but since I have gotten much better with HTML, CSS, and JavaScript through coursework and I intend to do a heavy overhaul as seen in the most recent commits to index.html compared to the previous versions.
+
+2048 Game: This is the game 2048 recreated as a windows application, it was a fairly popular 2012 app.
+
+LeetCode: This has my solutions to various leetcode problems. Note that this was mostly done prior to taking Algorithms and I now know how to solve problems using concepts like Dynamic Programming and Greedy Algorithms 
+
+Mirai-Source-Code: This is forked since it came up in my Computer Security course and I was interested to read more into the code itself.
 
 I have experience working with HTML/CSS, JavaScript, C#, C++, Python, Java, and databases. 
 
-My current coursework includes Databases, Algorithms, Computer Security, and Models of Computation. Other important classes of note previously taken are Probability and Statistics, Discrete Math, Data Structures. 
+My current coursework includes Databases, Algorithms, Computer Security, and Models of Computation. Other important classes of note previously taken are Probability and Statistics, Discrete Math, Data Structures.
+
 
 If you would like to contact me, you can reach me at ethandavies8@gmail.com.
 
