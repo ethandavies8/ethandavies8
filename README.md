@@ -17,7 +17,7 @@ Mirai-Source-Code: This is forked since it came up in my Computer Security cours
 
 I have experience working with HTML/CSS, JavaScript, C#, C++, Python, Java, and databases. 
 
-My current coursework includes Databases, Algorithms, Computer Security, and Models of Computation. Other important classes of note previously taken are Probability and Statistics, Discrete Math, Data Structures.
+My current coursework includes Databases, Algorithms, Computer Security, and Models of Computation. Other important classes of note previously taken are Probability and Statistics, Discrete Math, and Data Structures.
 
 
 If you would like to contact me, you can reach me at ethandavies8@gmail.com.
