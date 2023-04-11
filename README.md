@@ -23,7 +23,7 @@ My current coursework includes Databases, Algorithms, Computer Security, and Mod
 
 If you would like to contact me, you can reach me at ethandavies8@gmail.com
 
-My Website: https://ethandavies.netlify.app for visuals of projects
+Visit my website for for visuals of projects https://ethandavies.netlify.app 
 
 <!---
 ethandavies8/ethandavies8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
