@@ -7,7 +7,7 @@ Educational-App: This was a school project made by me and 3 other people. The as
 Pixel-Editor-Animator: This was another school project made by me and 3 other people. This application allows the user to create custom pixel sprites of various sizes
 and even create animations for those sprites. The sprites and animations can be saved and loaded.
 
-Website: This is a personal project where I wanted to challenge myself to learn HTML, CSS, and JavaScript for web development and also lay the foundation for my own website I could use to post my projects and major project updates. The website is currently in a rough state as I got more busy with school than I was anticipating, but since I have gotten much better with HTML, CSS, and JavaScript through coursework I intend to do a heavy overhaul as seen in the most recent commits to index.html compared to the previous versions.
+Website: This is a personal project where I wanted to challenge myself to learn HTML, CSS, and JavaScript for web development and also lay the foundation for my own website I could use to post my projects and major project updates. I plan to continue to expand this website as I create new projects and continue to expand my learning.
 
 2048 Game: This is the game 2048 recreated as a windows application, it was a fairly popular 2012 app.
 
@@ -22,6 +22,7 @@ My current coursework includes Databases, Algorithms, Computer Security, and Mod
 
 
 If you would like to contact me, you can reach me at ethandavies8@gmail.com.
+My Website: https://ethandavies.netlify.app
 
 <!---
 ethandavies8/ethandavies8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
