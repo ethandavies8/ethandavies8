@@ -13,8 +13,6 @@ Website: This is a personal project where I wanted to challenge myself to learn 
 
 LeetCode: This has my solutions to various leetcode problems. Note that this was mostly done prior to taking Algorithms and I now know how to solve problems using concepts like Dynamic Programming and Greedy Algorithms 
 
-Mirai-Source-Code: This is forked since it came up in my Computer Security course and I was interested to read more into the code itself and I find 
-computer security very interesting.
 
 I have experience working with HTML/CSS, JavaScript, C#, C++, Python, Java, and databases. 
 
