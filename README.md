@@ -2,6 +2,8 @@ My name is Ethan Davies and I am a Computer Science student at the University of
 
 My Public Repositories: 
 
+Team-Building-Project: This is my current project I am actively working on. Built in vue and in collaboration with an industry professional we are building a team generator. This will be a server hosted web application that stores user data such as their friends, teams created, individual player scores for different games, usernames and passwords.
+
 Educational-App: This was a school project made by me and 3 other people. The assignment was to create an app aimed to educate on a specific topic, our topic was logical operators in circuits. This application teaches how different logical operators work and then has the user practice using each operator in a circuit, eventually ending in creating an adder circuit using what they have learned.
 
 Pixel-Editor-Animator: This was another school project made by me and 3 other people. This application allows the user to create custom pixel sprites of various sizes
@@ -11,8 +13,7 @@ Website: This is a personal project where I wanted to challenge myself to learn 
 
 2048 Game: This is the game 2048 recreated as a windows application, it was a fairly popular 2012 app.
 
-LeetCode: This has my solutions to various leetcode problems. Note that this was mostly done prior to taking Algorithms and I now know how to solve problems using concepts like Dynamic Programming and Greedy Algorithms 
-
+LeetCode: This has my solutions to various leetcode problems over several years.
 
 I have experience working with HTML/CSS, JavaScript, C#, C++, Python, Java, and databases. 
 
